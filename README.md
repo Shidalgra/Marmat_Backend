@@ -1,2 +1,2 @@
 # Marmat_Backend
-logic for connecting to the Marmat website database
+logic for security and to connect to the Marmat website database
